@@ -1,0 +1,9 @@
+# User configuration
+KeepAwake.settings.json
+
+# Generated launcher
+KeepAwake.lnk
+
+# Windows
+Thumbs.db
+Desktop.ini
